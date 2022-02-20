@@ -1,0 +1,3 @@
+Git is a version control software. 
+You can use to maintain change history while you keep changing your code. 
+Also it is helpful if more people are involved in the same project
