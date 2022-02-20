@@ -1,3 +1,8 @@
 Git is a version control software. 
 You can use to maintain change history while you keep changing your code. 
 Also it is helpful if more people are involved in the same project
+
+It basically is a tool to manage your source code revisions.
+Code can be stored in a remote place, so physical damage to local storage is not a issue of concern.
+Ability to developers to work from remote places and gives ability to collaborate with each other.
+Many developers contributed to Git to make it more useful and reliable…
