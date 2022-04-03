@@ -4,6 +4,10 @@ BATCH : T3
 
 
 
-.. toctree ::
-Platforms
-Features
+Contents
+--------
+
+.. toctree::
+
+   Platforms
+   Features
